@@ -6,3 +6,4 @@ git dev
 git issue-001
 git dev stash
 git gitskills
+git gitskill
