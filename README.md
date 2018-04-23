@@ -1,1 +1,2 @@
 # gitskills
+git change readme
